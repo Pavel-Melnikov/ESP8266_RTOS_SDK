@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPavel-Melnikov%2FESP8266_RTOS_SDK.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FPavel-Melnikov%2FESP8266_RTOS_SDK?ref=badge_shield)
+
 # ESP8266_RTOS_SDK #
 
 ----------
@@ -53,3 +55,7 @@ eagle.app.v6.flash.bin, downloads to flash 0x00000
 eagle.app.v6.irom0text.bin, downloads to flash 0x40000
 
 blank.bin, downloads to flash 0x7E000
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPavel-Melnikov%2FESP8266_RTOS_SDK.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPavel-Melnikov%2FESP8266_RTOS_SDK?ref=badge_large)
